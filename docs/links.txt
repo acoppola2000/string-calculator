@@ -1,0 +1,14 @@
+Coding Dojo
+Emily Bache - "The Coding Dojo Handbook" - ISBN  978-9198118032
+http://bossavit.com/dojo/archives/2005_02.html
+https://codingdojo.org/practices/WhatIsCodingDojo/
+
+Test Driven Development
+Kent Beck – “Test Driven Development By Example” – ISBN 978-0321146533
+http://www.jamesshore.com/v2/books/aoad1/test_driven_development
+http://www.jamesshore.com/v2/projects/lets-play-tdd
+
+Katas
+https://codingdojo.org/kata/
+https://sammancoaching.org/kata_descriptions/index.html
+https://github.com/emilybache
