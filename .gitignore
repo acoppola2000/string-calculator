@@ -1,1 +1,5 @@
 /.idea/
+/target/classes/org/example/LeapYearChecker.class
+/target/classes/org/example/StringCalculator.class
+/target/test-classes/org/example/LeapYearCheckerTest.class
+/target/test-classes/org/example/StringCalculatorTest.class
